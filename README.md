@@ -1,6 +1,6 @@
 # **PROGRAMMA VALŪTU MONITORINGAM** <br />
-
-## **Veidotājs: Martins Zemītis (1.kurss, 231RDB174)**
+<br />
+## **Veidotājs: Martins Zemītis (1.kurss, 231RDB174)** <br />
 <br />
 # **PIRMS VĒRTĪBU IZMAIŅU APRĒĶINIEM IR NEPIECIEŠAMS IEGŪT DATUS (MIN. 2, lai spētu aprēķināt starpību)** 
 # **APSKATĪT KOMENTĀRUS PROGRAMMAS KODĀ!** 
