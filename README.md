@@ -3,8 +3,8 @@
 ## **Veidotājs: Martins Zemītis (1.kurss, 231RDB174)** 
 
 # **PIRMS VĒRTĪBU IZMAIŅU APRĒĶINIEM IR NEPIECIEŠAMS IEGŪT DATUS (MIN. 2, lai spētu aprēķināt starpību)** 
-<br />
-# **APSKATĪT KOMENTĀRUS PROGRAMMAS KODĀ!** 
+
+# **APSKATĪT KOMENTĀRUS PROGRAMMAS KODĀ!** <br />
 
 ## Programmas uzdevums <br />
 ### **1. Apskatīt kriptovalūtu cenas** <br />
