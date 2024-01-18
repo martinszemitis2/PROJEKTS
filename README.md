@@ -23,8 +23,8 @@
 ### **(line 1-8) Tiek importētas visas izmantojamās bibliotēkas, kas nepieciešamas programmas izgatavei.** <br />
 
 ### **(line 11-13) Tiek ievadīts:** <br />
-"Service()" - Nepieciešams, lai startētu un apturētu Webdriver servisu. <br />
-"webdriver.ChromeOptions()" - Ļauj mainīt iestatījumus "Chrome" pārlūka. <br />
+**"Service()"** - Nepieciešams, lai startētu un apturētu Webdriver servisu. <br />
+**"webdriver.ChromeOptions()"** - Ļauj mainīt iestatījumus "Chrome" pārlūka. <br />
 "webdriver.Chrome(service=service, options=option)" - Iestata "Chrome" ar dotajām opcijām. <br />
 
 ### **(line 17-19):** <br />
