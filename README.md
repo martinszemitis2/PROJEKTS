@@ -11,7 +11,8 @@
 #### **1. Apskatīt kriptovalūtu cenas** <br />
 #### **2. Spēt tās nolasīt kā vērtības** <br />
 #### **3. Ievietot tās vērtības EXCEL faila un aprēķināt cenas izmaiņas kopš pirmās un pēdējās reizes** <br />
-#### **4. Programmai ir nepieciešams tikt automātiski palaistai ik reizi, kad tiek ieslēgts dators (shell:startup) NAV OBLIGĀTS** <br />
+### **NAV OBLIGĀTS** <br />
+#### **4. Programmai ir nepieciešams tikt automātiski palaistai ik reizi, kad tiek ieslēgts dators (shell:startup)** <br />
 
 ## Programmai izmantotās bibliotēkas <br />
 #### **1. Selenium - Nepieciešama mājaslapas automātiskai atveršanai un valūtu cenu apskatei.** <br />
