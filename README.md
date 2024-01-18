@@ -126,19 +126,19 @@
 
 
 ## Programmatūru var izmantot: <br />
-### **1. Lasot sarakstītos komentārus** <br />
-### **2. Ieslēdzot programmu** <br />
+#### **1. Lasot sarakstītos komentārus** <br />
+#### **2. Ieslēdzot programmu** <br />
 
 
 ## Iespējamie uzlabojumi <br />
-### **1. Palielināt time.sleep() sekunžu laiku, ja programmu izmanto uz lēnākām iekārtām.** <br />
-### **2. Palielināt monitorēto valūtu skaitu, ja nepieciešams.** <br />
-### **3. Automatizēt programmas ieslēgšanos noteiktā laika intervālā. (Iespējams nepieciešamas citas bibliotēkas)** <br />
+#### **1. Palielināt time.sleep() sekunžu laiku, ja programmu izmanto uz lēnākām iekārtām.** <br />
+#### **2. Palielināt monitorēto valūtu skaitu, ja nepieciešams.** <br />
+#### **3. Automatizēt programmas ieslēgšanos noteiktā laika intervālā. (Iespējams nepieciešamas citas bibliotēkas)** <br />
 
 
 ## Iespaidi par projektu! <br />
-### **Man ļoti patika izgatavot šo projektu, jo varēja izpausties programmas kodā un nebija noteiktas prasības.** <br />
-### **Cerams, ka nākotnē varēšu izveidot kaut ko ambiciozu. :)** <br />
+#### **Man ļoti patika izgatavot šo projektu, jo varēja izpausties programmas kodā un nebija noteiktas prasības.** <br />
+#### **Cerams, ka nākotnē varēšu izveidot kaut ko ambiciozu. :)** <br />
 
 ## **Martins Zemītis (1.kurss, 231RDB174)**
 
