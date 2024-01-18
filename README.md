@@ -2,22 +2,23 @@
 
 ## **Veidotājs: Martins Zemītis (1.kurss, 231RDB174)** 
 
-# **PIRMS VĒRTĪBU IZMAIŅU APRĒĶINIEM IR NEPIECIEŠAMS IEGŪT DATUS (MIN. 2, lai spētu aprēķināt starpību)** 
+## **PIRMS VĒRTĪBU IZMAIŅU APRĒĶINIEM IR NEPIECIEŠAMS IEGŪT DATUS (MIN. 2, lai spētu aprēķināt starpību)** 
 
-# **APSKATĪT KOMENTĀRUS PROGRAMMAS KODĀ!** <br />
+
+## **APSKATĪT KOMENTĀRUS PROGRAMMAS KODĀ!** <br />
 
 ## Programmas uzdevums <br />
 ### **1. Apskatīt kriptovalūtu cenas** <br />
 ### **2. Spēt tās nolasīt kā vērtības** <br />
 ### **3. Ievietot tās vērtības EXCEL faila un aprēķināt cenas izmaiņas kopš pirmās un pēdējās reizes** <br />
-<br />
+
 ### **4. Programmai ir nepieciešams tikt automātiski palaistai ik reizi, kad tiek ieslēgts dators (shell:startup) NAV OBLIGĀTS** <br />
-<br />
+
 ## Programmai izmantotās bibliotēkas <br />
 ### **1. Selenium - Nepieciešama mājaslapas automātiskai atveršanai un valūtu cenu apskatei.** <br />
 ### **2. Openpyxl - Excel automatizēšanai.** <br />
 ### **3. Time - Nepieciešams, lai varētu nodrošināt programmas pakāpenisku izpildīšanu.** <br />
-<br />
+
 # Programmas detalizēts apraksts <br />
 ### **(line 1-8) Tiek importētas visas izmantojamās bibliotēkas, kas nepieciešamas programmas izgatavei.** <br />
 <br />
